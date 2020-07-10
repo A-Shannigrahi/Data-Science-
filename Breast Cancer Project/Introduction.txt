@@ -1,0 +1,3 @@
+The Project deals with the breast cancer dataset using Logistic Regression.
+The dataset is available in sklearn library itself in dictionary form.
+The dataset can also be found in any data science or analytics related site.
