@@ -10,5 +10,11 @@ The repository is used for the following purposes-
 4>Basic Techniques involved in Data Preprocessing
 
 5>Feature Selection and Feature Extraction
+
+6>Segmentations using Clustering
+
+7>Determing Model Accuracy
+
+
  
  
