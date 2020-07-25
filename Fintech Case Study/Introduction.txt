@@ -1,0 +1,8 @@
+Title- App Behaviour Analysis
+
+Objective- To predict which customers will not convert to paid membership so greater marketing efforts can go into converting them into paid users.
+
+Case-The company has provided us the data of several customers who had downloaded the free version of the app.
+      The data also mentions the current status of this customers (if they have converted to paid users or not).
+      It is our task to analyse the behaviour of the customers and predict whether a particular user will enroll in the paid service option.
+
