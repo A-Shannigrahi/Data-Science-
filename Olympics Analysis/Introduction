@@ -1,0 +1,5 @@
+ An olympic based based dataset is being used for Exploratory Data Analysis.
+ The project showcases the use of data visualization libraries like matplotlib and seaborn.
+ Using data visualization we can tell a story without writing a single line of word.
+ Athough high level interactive charts/dashboard can be made in Tableau ;Python provides us with several tools for data manipulation and feature engineering.
+ The dataset is available at kaggle-https://www.kaggle.com/rio2016/olympic-games
