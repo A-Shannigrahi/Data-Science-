@@ -1,8 +1,12 @@
- Iris Dataset
- The project make use of Unsupervised Machine Learning.
- Cluster analysis is widely used in the business field.
- It can used for Consumer Analytics and Market Segmentation.
- In case of Iris Dataset we deal with Species Segmentation based on similarity of features.
- There is no targets given in Unsupervised Machine Learning.
- Instead we divide the dataset in groups(clusters)
- Popular Methods involved are K-means Clustering and Hierarchical Clustering.
+ Title-Iris Dataset Clustering
+ 
+ 
+ Objective -The project make use of Unsupervised Machine Learning for Species Segmentation.
+ 
+ 
+ Description-
+           Cluster analysis is widely used in the business field.
+           It can used for Consumer Analytics and Market Segmentation.
+           There is no targets given in Unsupervised Machine Learning.
+           Instead we divide the dataset in groups(clusters).
+           Popular Methods involved are K-means Clustering and Hierarchical Clustering.
