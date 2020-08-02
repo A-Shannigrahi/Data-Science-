@@ -15,6 +15,8 @@ The repository is used for the following purposes-
 
 7>Determing Model Accuracy
 
+8>Descriptive Statistics
+
 
  
  
