@@ -1,3 +1,7 @@
-The Project deals with the breast cancer dataset using Logistic Regression.
-The dataset is available in sklearn library itself in dictionary form.
-The dataset can also be found in any data science or analytics related site.
+Title - Breast Cancer Analysis
+
+Objective-To classify and predict whether the cancer is malign or benign in nature.
+
+Description- Breast Cancer is one of the leading reason of deaths in women . Timely detection can increase the survival rate drastically and the field of medicine is
+             adapting technologies in machine learning to increase chances of early detection.
+             
