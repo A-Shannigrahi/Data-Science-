@@ -4,4 +4,6 @@ Objective-To classify and predict whether the cancer is malign or benign in natu
 
 Description- Breast Cancer is one of the leading reason of deaths in women . Timely detection can increase the survival rate drastically and the field of medicine is
              adapting technologies in machine learning to increase chances of early detection.
+
+Models Implemented: Logistic Regression and Random Forest Classification.
              
